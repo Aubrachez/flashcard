@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flashcards</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>📚 Flashcards</h1>
+
+    <div id="progression">Flashcard 1 / 1</div>
+
+    <div class="flashcard" id="flashcard">
+        <div class="flashcard-inner">
+            <div class="flashcard-front" id="question"></div>
+            <div class="flashcard-back" id="answer"></div>
+        </div>
+    </div>
+
+    <div class="navigation">
+        <button id="prev" aria-label="Carte précédente">
+            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#0077cc" viewBox="0 0 24 24">
+                <path d="M15 18l-6-6 6-6" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+        </button>
+        
+        <button id="next" aria-label="Carte suivante">
+            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#0077cc" viewBox="0 0 24 24">
+                <path d="M9 6l6 6-6 6" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+        </button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

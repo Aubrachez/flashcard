@@ -1,0 +1,215 @@
+[
+    {
+        "question": "Qu'est-ce que l'ozone troposphérique ?",
+        "mots_cles": ["ozone", "basse", "altitude", "no", "cov"],
+        "reponse_complete": "Ozone situé en basse altitude formé à partir de NO et COV"
+    },
+    {
+        "question": "Donne l'échelle de Lansink.",
+        "mots_cles": ["prévention", "réutilisation", "recyclage", "compostage", "incinération", "décharge"],
+        "reponse_complete": "Prévention, réutilisation, recyclage, compostage, incinération, mise en décharge"
+    },
+    {
+        "question": "Quels types de molécules sont responsables de l'effet de serre ?",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "Molécules triatomiques ou non symétriques, elles absorbent les IR"
+    },
+     {
+        "question": "Donne le cycle des CFC",
+        "reponse_complete": "",
+        "image_reponse": "cfc_image.png",
+        "mots_cles": []
+    },
+    {
+        "question": "Cycle de chapman",
+        "reponse_complete": "",
+        "image_reponse": "chapman.png",
+        "mots_cles": []
+    },
+    {
+        "question": "Comment fonctionne un gaz à effet de serre",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": " absorbe les IR de la terre"
+    },
+    {
+        "question": "la tocicité des particules est définis par ?",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "leurs tailles"
+    },
+    {
+        "question": "quelle gamme de rayonnement abosrbe les gazs de la troposphère",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "IR"
+    },
+    {
+        "question": "dans quel compartiement de l'atmosphère à lieu la destruction de l'ozone",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "dans la stratopshère"
+    },
+    {
+        "question": "dans quel compartiments ont lieu les pluies acides",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "la troposphère"
+    },
+    {
+        "question": "Dans quelles conditions les pluies acides se forment-elles ?",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "en hiver, froid en bas chaud en haut, peu de vent."
+    },
+    {
+        "question": "Impact à partir de combien ozone troposphérique ?",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "180 µg/m³"
+    },
+    {
+        "question": "que fait la couche d'ozone ?",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "Protège des UV"
+    },
+    {
+        "question": "impact PM10",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "Penètre les bronches"
+    },
+    {
+        "question": "impact PM2.5",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "Penètre les alvéoles pulmonaires"
+    },
+    {
+        "question": "Impact PM1",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "Pénètre barriere alvéo pulmonaire"
+    },
+    {
+        "question": "Impact PM0.1",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "particules ultrafines"
+    },
+    {
+        "question": "COV c'est quoi ?",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "substances organiques volatiles, à base de carbone qui s'évaporent dans l'air à température ambiante"
+    },
+    {
+        "question": "décrit le smog",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "Mélange d'ozone et de particules fines, il est plus présent en hiver, il est causé par la combustion de charbon et de bois."
+    },
+    {
+        "question": "responsable pluies acides ",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "NOx et SOx"
+    },
+    {
+        "question": "Pluies acides equations",
+        "reponse_complete": "",
+        "image_reponse": "acide.png",
+        "mots_cles": []
+    },
+    {
+        "question": "SPAQUE",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "Société Public d'aide à la qualité de l'environnement"
+    },
+    {
+        "question": "SAR",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "Site à réaménager"
+    },
+    {
+        "question": "5 principes IED",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "Approche globale, ELV, fléxibilité, inspection periodique et participation public"
+    },
+    {
+        "question": "étude incidence sur envirronement EIE",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "indicateur destiné aux administrations chargées d'octroyer les permis indurstreil prenant en compte les effets sur l'environnement et la santé humaine"
+    },
+    {
+        "question": "problèmes iso1400",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "pas d'exigence de performance, démarche volontaire, pas de communication externe"
+    },
+    {
+        "question": "SEVESO",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "Prévention et limitation accidents majeurs soudains non-planifié et inattendues"
+    },
+    {
+        "question": "Filtre électrostatique (électrofiltre)",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "particulièrement efficace car l’énergie nécessaire à la séparation est appliquéesur les particules et non sur l’effluent dans satotalité"
+    },
+    {
+        "question": "Le dépoussiérage",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "Elimination des particules"
+    },
+    {
+        "question": "Quel est le polluant principal du charbon, sous quelle forme le trouve-t-on ?",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "soufreinorganique = FeS2"
+    },
+    {
+        "question": "Quelles sont les trois sources de NOx durant la combustion ?",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "N2+O = NO +N, N+O2=NO + O, N+OH=NO+H "
+    },
+    {
+        "question": "pq teneur en O2 pour établir concentrations ?",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "éviter falsifications par dillutions"
+    },
+    {
+        "question": "Avantage bio-filtre contre laveur ",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "Energie nécéssaire à sépration est appliquée sur les particules et non sur l’effluent dans sa totalité"
+    },
+    {
+        "question": "Dans le cadre d’une demande de permis d’environnement soumise à la directive IED,comment sont déterminées les limites d’émission ELV ? ",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "basées sur les MTD (Meilleures Techniques Disponibles) et les BREF (Best Available Techniques Reference Document)"
+    },
+    {
+        "question": "Comment détermine ton le biochemical methane potential ?",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": " Expérimentale de la quantité maximale de méthane pouvant être produite par un déchet donné "
+    },
+    {
+        "question": "Réduire concentration sulfure d'hydrogène dans les bioréacteurs ?",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "Ajout FeCL2 dans digesteur"
+    },
+    {
+        "question": "thermofile biométhanisation",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "Augmente la vitesse de dégradation des déchets organiques et la production de biogaz + meilleure hygiénisation. mais plus fragile face aux inhibiteurs"
+    },
+    {
+        "question": "C.E.T.",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "Jus de décharge, faut récuperer et traîter à part."
+    },
+    {
+        "question": "critère pour classement biométhanisation",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "Humidité, température de fonctionnement et plusiseurs phases de traitement"
+    },
+    {
+        "question": "Sulfure d'hydrogène en biométanisation",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "Toxic, vient de la réductions des produits souffrés"
+    },
+    {
+        "question": "Traitement fummée avant et pendant combustion",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": "avant : souffre, pendant : azote"
+    },
+    {
+        "question": "",
+        "mots_cles": ["triatomique", "non", "symétriques", "absorbent", "ir"],
+        "reponse_complete": ""
+    }
+]
