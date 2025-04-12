@@ -24,6 +24,8 @@ button {
     cursor: pointer;
     color: #0077cc;
     transition: transform 0.2s;
+    padding-top: 3rem;
+    padding-left: 2.2rem;
 }
 
 button:hover {
